@@ -1,0 +1,105 @@
+.topbar {
+  background:#282828;
+  opacity : 0.99;
+}
+
+.body{
+  background: #1f1f1f;
+  color: #fff;
+}
+
+
+.pos {
+  padding: 0 0 0 60px;
+  float:left;
+}
+
+.widthxheight{
+  padding: 10px;
+}
+
+.hwemail{
+  padding: 0 0px 0 10px;
+}
+
+.hwpass{
+  padding: 5px 250px 0 10px;
+}
+
+.hwcheck{
+  padding: 10px;
+}
+
+.hwrmb{
+  padding: 0px 0px 10px 5px;
+}
+
+.hwreg a {
+  padding: 10px 0px 0 140px;
+}
+
+
+.hwbtn{
+  width:100%;
+}
+
+
+.navmenu {
+  position: fixed;
+  top: 55px;
+  display: block;
+  text-decoration: none;
+  background:   #272727;  
+  width: 350px;
+  height: 100%; 
+  white-space: nowrap;
+}
+  
+ul.menu {
+  padding: 100px 0 0 15px;
+  list-style-type:none;
+  white-space: nowrap;
+}
+
+ul.menu li {
+  margin: 10px 0px 0 0px;
+}
+
+ul.menu li a{
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  transition: all .3s;
+  padding: 10px 0px 10px 50px;
+  display: block;
+  
+}
+
+ul.menu li a:hover{
+  background: #ddd;
+  padding: 10px 0px 10px 50px;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+  display: block;
+
+
+}
+
+
+h1 {
+  top:90px;
+  padding: 180px 0 0 0;
+  float: left;
+  color: #fff;
+  list-style-type:none;
+}
+
+.pic {
+  padding: 180px 0 0 100px;
+  position : relative;
+}
+
+
+
+
